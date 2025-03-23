@@ -1,0 +1,91 @@
+/* Parent Container: Flexbox Layout */
+.transactions-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 15px;
+}
+
+/* Transactions Table: Left Side */
+.transactions-container {
+    width: 40%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 400px;  /* Makes it scrollable */
+}
+
+/* Table Styling */
+.transactions-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.transactions-container th {
+    background-color: rgb(235, 62, 62);
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+.transactions-container th, 
+.transactions-container td {
+    padding: 8px;
+    border-bottom: 1px solid rgb(235, 62, 62);
+}
+
+.transactions-container td {
+    color: #333;
+}
+
+/* Charts Section: Right Side */
+.charts-container {
+    width: 55%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Button Styling */
+button {
+    background: rgb(235, 62, 62);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: rgb(235, 110, 110);
+}
+
+/* Canvas (Chart) Styling */
+canvas {
+    max-width: 100%;
+    height: 220px !important; /* Fixed height to prevent overflow */
+    display: block;
+    margin: 0 auto;
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+    .transactions-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .transactions-container, 
+    .charts-container {
+        width: 100%;
+        max-width: 600px;
+    }
+}

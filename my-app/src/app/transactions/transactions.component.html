@@ -1,0 +1,37 @@
+<div class="transactions-wrapper">
+  
+    <!-- Transactions Table (Left) -->
+    <div class="transactions-container">
+      <h2>Recent Transactions</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Location</th>
+            <th>Amount</th>
+            <th>Card Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let transaction of transactions">
+            <td>{{ transaction.location }}</td>
+            <td>{{ transaction.amount | currency }}</td>
+            <td>{{ transaction.cardType }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  
+    <!-- Charts (Right) -->
+    <div class="charts-container">
+      <h2>Transaction Insights</h2>
+      
+      <!-- Toggle Button -->
+      <button (click)="toggleChart()">
+        Show {{ showPieChart ? 'Bar Chart' : 'Pie Chart' }}
+      </button>
+      <canvas id="pieChart" *ngIf="showPieChart"></canvas>
+      <canvas id="barChart" *ngIf="!showPieChart"></canvas>
+    </div>
+  
+  </div>
+  
