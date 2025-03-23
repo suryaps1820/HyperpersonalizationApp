@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { CustomerDataService } from '../Service/customer-data.service';
+import { tick } from '@angular/core/testing';
+import { of } from 'rxjs';
 
 @Component({
   selector: 'app-offer-slideshow',
@@ -28,11 +30,18 @@ export class OfferSlideshowComponent {
   fetchOffers(customerId: string) {
     // Simulating an API call (Replace with actual HTTP call)
     console.log(`Fetching offers for Customer ID: ${customerId}`);
-    this.offers = [
-      { title: "Special Offer!", details: "Get 50% off on all products. Limited time only!" },
-      { title: "New Arrivals!", details: "Check out our latest collection now." },
-      { title: "Exclusive Discount!", details: "Sign up today and get an extra 20% off." }
-    ];
+    this.offers = [];
+    this.customerService.getOffers(customerId).subscribe((offers: OfferList[]) => {
+      for (let x of offers) { 
+        let offer: OfferList = { 
+          title: x.title,
+          details: x.details
+        };
+        console.log("fetched offer from backend : " + offer.title + offer.details);
+        this.offers.push(offer)
+      }
+    });    
+    
   }
 }
 

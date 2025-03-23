@@ -57,15 +57,29 @@ export class TransactionsComponent implements OnInit, AfterViewInit {
   fetchTransactions(customerId: string) {
     // Simulating an API call (Replace with actual HTTP request)
     console.log(`Fetching transactions for Customer ID: ${customerId}`);
-    this.transactions = [
-      { location: "Amazon", amount: 120.99, cardType: "Visa" },
-      { location: "Walmart", amount: 45.50, cardType: "MasterCard" },
-      { location: "Starbucks", amount: 5.99, cardType: "Visa" },
-      { location: "Best Buy", amount: 299.99, cardType: "Amex" },
-      { location: "Spotify", amount: 9.99, cardType: "Visa" },
-      { location: "Nike", amount: 135.75, cardType: "MasterCard" },
-      { location: "Netflix", amount: 135.75, cardType: "MasterCard" }
-    ];
+  //   this.transactions = [
+  //     { location: "Amazon", amount: 120.99, cardType: "Visa" },
+  //     { location: "Walmart", amount: 45.50, cardType: "MasterCard" },
+  //     { location: "Starbucks", amount: 5.99, cardType: "Visa" },
+  //     { location: "Best Buy", amount: 299.99, cardType: "Amex" },
+  //     { location: "Spotify", amount: 9.99, cardType: "Visa" },
+  //     { location: "Nike", amount: 135.75, cardType: "MasterCard" },
+  //     { location: "Netflix", amount: 135.75, cardType: "MasterCard" }
+  //   ];
+  // }
+  this.customerService.getTransactions(customerId).subscribe((transactionList: Transaction[]) => {
+    this.transactions = [];
+    for (let x of transactionList) { 
+      let transaction: Transaction = { 
+        location: x.location,
+        amount: x.amount,
+        cardType: x.cardType
+      };
+      console.log("fetched offer from backend : " +transaction.location + transaction.amount+ transaction.cardType);
+      this.transactions.push(transaction);
+    }
+  });    
+    this.toggleChart();
   }
 
   createPieChart() {
