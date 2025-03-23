@@ -1,7 +1,13 @@
-import { AfterViewInit, Component } from '@angular/core';
+import { AfterViewInit, Component, OnInit } from '@angular/core';
 import { CommonModule, CurrencyPipe } from '@angular/common';
+import { CustomerDataService } from '../Service/customer-data.service';
 
 import { Chart } from 'chart.js/auto';
+interface Transaction{
+  location: string,
+  amount: number,
+  cardType: string
+}
 
 @Component({
   selector: 'app-transactions',
@@ -9,19 +15,24 @@ import { Chart } from 'chart.js/auto';
   imports: [CommonModule, CurrencyPipe],
   styleUrls: ['./transactions.component.css']
 })
-export class TransactionsComponent implements AfterViewInit {
-  transactions = [
-    { location: "Amazon", amount: 120.99, cardType: "Visa" },
-    { location: "Walmart", amount: 45.50, cardType: "MasterCard" },
-    { location: "Starbucks", amount: 5.99, cardType: "Visa" },
-    { location: "Best Buy", amount: 299.99, cardType: "Amex" },
-    { location: "Spotify", amount: 9.99, cardType: "Visa" },
-    { location: "Nike", amount: 135.75, cardType: "MasterCard" }
-  ];
+export class TransactionsComponent implements OnInit, AfterViewInit {
+
+
+  transactions : Transaction[] =[];
 
   showPieChart: boolean = true;
   pieChartInstance: any;
   barChartInstance: any;
+
+  constructor(private customerService: CustomerDataService) {}
+
+  ngOnInit() {
+    this.customerService.customerId$.subscribe(customerId => {
+      if (customerId) {
+        this.fetchTransactions(customerId);
+      }
+    });
+  }
 
   ngAfterViewInit() {
     this.createPieChart();
@@ -43,7 +54,19 @@ export class TransactionsComponent implements AfterViewInit {
     }, 0);
   }
   
-  
+  fetchTransactions(customerId: string) {
+    // Simulating an API call (Replace with actual HTTP request)
+    console.log(`Fetching transactions for Customer ID: ${customerId}`);
+    this.transactions = [
+      { location: "Amazon", amount: 120.99, cardType: "Visa" },
+      { location: "Walmart", amount: 45.50, cardType: "MasterCard" },
+      { location: "Starbucks", amount: 5.99, cardType: "Visa" },
+      { location: "Best Buy", amount: 299.99, cardType: "Amex" },
+      { location: "Spotify", amount: 9.99, cardType: "Visa" },
+      { location: "Nike", amount: 135.75, cardType: "MasterCard" },
+      { location: "Netflix", amount: 135.75, cardType: "MasterCard" }
+    ];
+  }
 
   createPieChart() {
     const cardUsageData = this.aggregateCardUsage();

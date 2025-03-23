@@ -1,4 +1,10 @@
     <nav class="navbar">
         <div class="app-name"><b>Wells Fargo Hyperpersonalization</b></div>
-        <input type="text" class="search-input" placeholder="Customer Id">
+        <input 
+        type="text" 
+        class="search-input" 
+        placeholder="Enter Customer ID..." 
+        [(ngModel)]="customerId"
+        (keyup.enter)="onSearch()"
+    >
     </nav>
