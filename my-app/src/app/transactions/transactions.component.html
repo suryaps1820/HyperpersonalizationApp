@@ -21,17 +21,22 @@
       </table>
     </div>
   
-    <!-- Charts (Right) -->
     <div class="charts-container">
-      <h2>Transaction Insights</h2>
+        <!-- Header Section (Left Side) -->
+        <div class="charts-header">
+          <h2>Transaction Insights</h2>
+          <button (click)="toggleChart()">
+            Show {{ showPieChart ? 'Bar Chart' : 'Pie Chart' }}
+          </button>
+        </div>
       
-      <!-- Toggle Button -->
-      <button (click)="toggleChart()">
-        Show {{ showPieChart ? 'Bar Chart' : 'Pie Chart' }}
-      </button>
-      <canvas id="pieChart" *ngIf="showPieChart"></canvas>
-      <canvas id="barChart" *ngIf="!showPieChart"></canvas>
+        <!-- Chart Section (Right Side) -->
+        <div class="chart-content">
+          <canvas id="pieChart" *ngIf="showPieChart"></canvas>
+          <canvas id="barChart" *ngIf="!showPieChart"></canvas>
+        </div>
     </div>
+      
   
   </div>
   

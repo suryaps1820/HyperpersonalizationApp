@@ -1,3 +1,4 @@
+/* Navbar Styling */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -8,14 +9,34 @@
     border-bottom: 5px solid yellow;
     font-size: 18px;
 }
-#chatbot-btn {
-    padding: 10px 20px;
-    border: none;
+
+/* App Name (Left Side) */
+.app-name {
+    font-weight: bold;
+}
+
+/* Search Box (Centered) */
+.search-input {
+    padding: 10px 15px;
+    border: 2px solid white;
     background: white;
     color: rgb(235, 62, 62);
-    border-radius: 25px;
-    cursor: pointer;
+    border-radius: 25px;  /* Makes it rounded */
     font-size: 16px;
-    font-weight: bold;
-    border: 2px solid rgb(235, 62, 62);;
+    width: 150px;  /* Adjust width as needed */
+    outline: none;
+    text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .search-input {
+        width: 100%;
+        max-width: 300px;
+    }
 }
