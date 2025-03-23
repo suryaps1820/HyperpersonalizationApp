@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(235, 62, 62);
+    padding: 10px 25px;
+    color: white;
+    border-bottom: 5px solid yellow;
+    font-size: 18px;
+}
+#chatbot-btn {
+    padding: 10px 20px;
+    border: none;
+    background: white;
+    color: rgb(235, 62, 62);
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid rgb(235, 62, 62);;
+}

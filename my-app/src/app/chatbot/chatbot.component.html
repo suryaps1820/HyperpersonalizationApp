@@ -1,0 +1,27 @@
+<!-- Chatbot UI -->
+<div class="chat-container" [class.show]="chatVisible">
+    <div class="chat-header">
+      <span>Chatbot</span>
+      <button (click)="toggleChat()">✖</button>
+    </div>
+  
+    <div class="chat-body" #chatBody>
+      <div *ngFor="let message of messages" [class]="message.type">
+        {{ message.text }}
+      </div>
+    </div>
+  
+    <div class="chat-input-container">
+      <div class="chat-input-wrapper">
+        <input 
+          type="text" [(ngModel)]="userInput" 
+          (keyup.enter)="sendMessage()" 
+          placeholder="Type a message..." />
+        <button class="send-btn" (click)="sendMessage()">➤</button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Floating Chatbot Button -->
+  <button *ngIf="!chatVisible" id="chatbot-btn" (click)="toggleChat()">Chatbot</button>
+  
