@@ -26,23 +26,23 @@ export class OfferSlideshowComponent {
       }
     });
   }
-
   fetchOffers(customerId: string) {
-    // Simulating an API call (Replace with actual HTTP call)
     console.log(`Fetching offers for Customer ID: ${customerId}`);
-    this.offers = [];
+  
     this.customerService.getOffers(customerId).subscribe((offers: OfferList[]) => {
-      for (let x of offers) { 
-        let offer: OfferList = { 
+      if (offers && offers.length > 0) {
+        this.offers = offers.map(x => ({
           title: x.title,
           details: x.details
-        };
-        console.log("fetched offer from backend : " + offer.title + offer.details);
-        this.offers.push(offer)
+        }));
+        console.log("Offers successfully loaded", this.offers);
+      } else {
+        console.log("No offers available for this customer.");
       }
-    });    
-    
+    });
   }
+  
+
 }
 
 interface OfferList{

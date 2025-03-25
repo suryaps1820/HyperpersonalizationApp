@@ -10,7 +10,7 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './nav-bar.component.css'
 })
 export class NavBarComponent {
-  customerId: string = '123';
+  customerId: string = '1020';
 
   constructor(private customerService: CustomerDataService) {}
 

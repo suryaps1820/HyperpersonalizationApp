@@ -4,8 +4,6 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
-# Sample banking services database
 services = {
     "Credit Card": "Credit card with cashback and reward points",
     "Loan": "Personal loan with low interest rates and flexible EMI options",
@@ -18,8 +16,6 @@ services = {
 
 df_services = pd.DataFrame(services.items(), columns=["Intent", "Service"])
 
-
-# Function to analyze sentiment using VADER
 def analyze_sentiment(comment):
     analyzer = SentimentIntensityAnalyzer()
     sentiment_scores = analyzer.polarity_scores(comment)
@@ -31,8 +27,6 @@ def analyze_sentiment(comment):
     else:
         return "Neutral"
 
-
-# Function to classify intent using keyword matching
 def classify_intent(comment):
     keywords = {
         "credit card": ["credit card", "cashback", "rewards", "visa", "mastercard"],
@@ -50,8 +44,6 @@ def classify_intent(comment):
 
     return "Other"
 
-
-# Function to recommend a banking service
 def recommend_service(comment):
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(list(services.values()) + [comment])
@@ -62,31 +54,18 @@ def recommend_service(comment):
     return df_services.iloc[best_match_index]["Service"]
 
 
-# Function to process uploaded file and customer comment
 def process_uploaded_file(file, customer_id):
-    # Read the customer data from the uploaded file
     customer_data = pd.read_csv(file)
-
-    # Convert the input customer_id to string (to handle type mismatches)
     customer_id = str(customer_id)
-
-    # Get the customer's comment based on the customer_id
     customer_comment = customer_data.loc[customer_data['customer_id'].astype(str) == customer_id, 'content']
-
-    # Check if a comment was found
     if customer_comment.empty:
         return "No comment found for this customer ID", "", ""
-
-    customer_comment = customer_comment.values[0]  # Extract the comment text
-
+    customer_comment = customer_comment.values[0]
     sentiment = analyze_sentiment(customer_comment)
     intent = classify_intent(customer_comment)
     recommendation = recommend_service(customer_comment)
-
     return sentiment, intent, recommendation
 
-
-# Gradio UI
 def main():
     ui = gr.Interface(
         fn=process_uploaded_file,
@@ -101,9 +80,8 @@ def main():
         ],
         title="Banking Service Recommender ",
         description="Upload an Excel file containing customer feedback and enter a customer ID to receive sentiment analysis, intent classification, and service recommendation.",
-        theme="compact"  # Choose a UI theme. You can change it to "huggingface" or "default"
+        theme="compact"
     )
     ui.launch()
-
 
 main()

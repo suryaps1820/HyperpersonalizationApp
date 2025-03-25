@@ -4,9 +4,9 @@ import { CustomerDataService } from '../Service/customer-data.service';
 
 import { Chart } from 'chart.js/auto';
 interface Transaction{
-  location: string,
+  purchase_platform: string,
   amount: number,
-  cardType: string
+  payment_mode: string
 }
 
 @Component({
@@ -55,27 +55,16 @@ export class TransactionsComponent implements OnInit, AfterViewInit {
   }
   
   fetchTransactions(customerId: string) {
-    // Simulating an API call (Replace with actual HTTP request)
-    console.log(`Fetching transactions for Customer ID: ${customerId}`);
-  //   this.transactions = [
-  //     { location: "Amazon", amount: 120.99, cardType: "Visa" },
-  //     { location: "Walmart", amount: 45.50, cardType: "MasterCard" },
-  //     { location: "Starbucks", amount: 5.99, cardType: "Visa" },
-  //     { location: "Best Buy", amount: 299.99, cardType: "Amex" },
-  //     { location: "Spotify", amount: 9.99, cardType: "Visa" },
-  //     { location: "Nike", amount: 135.75, cardType: "MasterCard" },
-  //     { location: "Netflix", amount: 135.75, cardType: "MasterCard" }
-  //   ];
-  // }
+  console.log(`Fetching transactions for Customer ID: ${customerId}`);
   this.customerService.getTransactions(customerId).subscribe((transactionList: Transaction[]) => {
     this.transactions = [];
     for (let x of transactionList) { 
       let transaction: Transaction = { 
-        location: x.location,
+        purchase_platform: x.purchase_platform,
         amount: x.amount,
-        cardType: x.cardType
+        payment_mode: x.payment_mode
       };
-      console.log("fetched offer from backend : " +transaction.location + transaction.amount+ transaction.cardType);
+      console.log("fetched transactions from backend : " +transaction.purchase_platform + transaction.amount+ transaction.payment_mode);
       this.transactions.push(transaction);
     }
   });    
@@ -101,14 +90,12 @@ export class TransactionsComponent implements OnInit, AfterViewInit {
   }
   
   createBarChart() {
-    const labels = this.transactions.map(t => t.location);
+    const labels = this.transactions.map(t => t.purchase_platform);
     const data = this.transactions.map(t => t.amount);
   
     const ctx = document.getElementById('barChart') as HTMLCanvasElement;
     if (!ctx) return;
-  
-    // **Clear previous chart height** before creating a new one
-    ctx.style.height = "200px"; // Fixed height
+      ctx.style.height = "200px";
   
     this.barChartInstance = new Chart(ctx, {
       type: 'bar',
@@ -132,7 +119,7 @@ export class TransactionsComponent implements OnInit, AfterViewInit {
     const cardCounts: { [key: string]: number } = {};
 
     this.transactions.forEach(t => {
-      cardCounts[t.cardType] = (cardCounts[t.cardType] || 0) + 1;
+      cardCounts[t.payment_mode] = (cardCounts[t.payment_mode] || 0) + 1;
     });
 
     return cardCounts;

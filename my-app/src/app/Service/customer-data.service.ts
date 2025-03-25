@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 export class CustomerDataService {
 
   constructor(private http: HttpClient) {}
-  private customerIdSource = new BehaviorSubject<string>('123');
+  private customerIdSource = new BehaviorSubject<string>('1020');
   customerId$ = this.customerIdSource.asObservable();
   private apiUrl = 'http://localhost:3000/api'; 
   setCustomerId(id: string) {
@@ -17,10 +17,10 @@ export class CustomerDataService {
   }
   
   getTransactions(customerId: string) :any{
-    return this.http.get(`${this.apiUrl}/transactions/${customerId}`);
+    return this.http.get(`${this.apiUrl}/get_transactions/${customerId}`);
   }
 
   getOffers(customerId: string) :any{
-    return this.http.get(`${this.apiUrl}/offers/${customerId}`);
+    return this.http.get(`${this.apiUrl}/fetch_recommendations/${customerId}`);
   }
 }

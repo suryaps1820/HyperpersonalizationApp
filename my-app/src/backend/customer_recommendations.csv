@@ -1,0 +1,5590 @@
+customer_id,title,details,transaction_type,payment_mode
+1002,High-Interest Savings Account,Earn more on your savings with our high-interest rate savings account. No minimum balance required.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1002,Travel Rewards Credit Card,Enjoy cashback and reward points on all your travel expenses with our Travel Rewards Credit Card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1002,"Invest Smart, Earn More",Maximize your investments with our plans offering high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1006,Maximize Your Savings with High-Interest Account,Open our high-interest savings account with no minimum balance today and start earning more on your deposits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1006,Travel More with Our Low-Interest Home Loan,"Get a home loan at low interest rates, freeing up your finances for unforgettable travel experiences.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1006,Earn Cashback and Reward Points with Our Credit Card,Enjoy the benefits of cashback and reward points on every purchase you make with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1017,Low-Interest Home Loan for Educators,"Take advantage of our low-interest home loan specifically designed for educators, making it easier to buy or refinance your dream home.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1017,Credit Card Rewards for Healthcare Professionals,Earn cashback and reward points with our credit card tailored for healthcare professionals. Maximize your savings today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1017,High-Interest Savings Account with No Minimum Balance,Start growing your savings effortlessly with our high-interest savings account requiring no minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1018,Low Interest Rate Personal Loan with Flexible EMI Options,Enjoy flexible repayment options and low interest rates on our personal loan.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1018,Travel More with Our Low Interest Rate Home Loan,Apply for a home loan with competitive interest rates to free up your finances for travel adventures.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1018,Maximize Your Spending with Our Credit Card Offer,Earn cashback and reward points on all your purchases with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1020,Low Interest Home Loan for Comfortable Living,Apply now and take advantage of our competitive home loan rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1020,Invest Smartly with High Returns and Tax Benefits,Explore our investment plans designed to help you grow your wealth.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1020,Maximize Rewards with Our Credit Cards,Earn cashback and reward points on your purchases using our credit cards.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1042,Healthcare Credit Card with Rewards,Earn cashback and reward points on all healthcare-related expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1042,Travel Savings Account with High Interest Rates,Save for your next trip with a savings account offering high interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1042,Education Personal Loan with Flexible EMI Options,Cover education expenses easily with a personal loan featuring flexible EMI options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1044,Travel More with Our Tailored Banking Package,Exclusive travel deals and rewards for our valued customers.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1044,Boost Your Learning Journey with Our Educational Investment Plan,"Invest in education, earn high returns, and enjoy tax benefits.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1044,Smart Shopping with Our Low Interest Rate Credit Card,Earn cashback and reward points on every purchase.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1106,Healthcare Reward Credit Card,Earn reward points on all healthcare expenses. Redeem for exclusive wellness packages and discounts.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1106,Travel Smart Savings Account,"High interest rates, no minimum balance, and travel-friendly features. Perfect for your next adventure!","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1106,Education Credit Card with Cashback,"Get cashback on education expenses. Plus, earn reward points to fund future learning opportunities.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1120,Health & Wealth Bundle,Get customized health insurance plans and home loan with low interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1120,"Dine, Earn & Save",Enjoy cashback and reward points on dining expenses with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1120,"Healthy Living, Secure Home",Combine the benefits of our health insurance plans and home loan offers.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1138,Dine Out & Earn Reward Points,Enjoy dining at your favorite restaurants and earn reward points for every transaction made using our Dining Credit Card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1138,Healthcare Perks,"Get exclusive offers on healthcare services, including discounts on routine check-ups, surgeries, and prescriptions with our Healthcare Credit Card.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1138,Fashion Forward Credit Card,Stay stylish with seasonal discounts and special offers on fashion brands when you use our Fashion Brands Credit Card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1145,Maximize Your Groceries with Our Cashback Credit Card,Earn reward points and cashback on every grocery purchase.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1145,Experience the Perks of Travel with Our Rewards Credit Card,"Get exclusive travel offers, reward points, and cashback on travel expenses.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1145,Secure Your Dream Home with Our Low-Interest Home Loan,Enjoy affordable monthly payments and fast approval process for your home loan application.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1152,High-Interest Savings Account,Earn competitive interest rates on your savings without maintaining minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1152,Exclusive Fashion Offers,Avail seasonal discounts and special offers on your favorite fashion brands.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1152,Flexible Personal Loan Options,Apply for a personal loan with low interest rates and tailor your EMI options to suit your needs.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1153,Low Interest Rate Personal Loan for Healthcare Expenses,Get a personal loan with competitive interest rates and flexible EMI options to manage your healthcare expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1153,Rewarding Grocery Shopping with Our Credit Card,Enjoy cashback and reward points every time you shop for groceries using our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1153,Affordable Home Loan Solution for Your Dream Home,Own your dream home with a low interest rate home loan. Start your home buying journey today.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1157,Credit Card with Rewards,"Earn cashback and reward points on your dining, travel, and shopping expenses.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1157,Flexible Personal Loan Offer,Get a personal loan with low interest rates and flexible EMI options. Use it for your next travel adventure or big purchase.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1157,High-Interest Savings Account,Start saving smartly with our high-interest savings account that comes with no minimum balance requirements.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1185,Healthcare Cashback Credit Card,Earn cashback on healthcare expenses and more,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1185,High-Interest Savings Account,Save smarter with high interest rates and no minimum balance,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1185,Education Reward Credit Card,Redeem points towards educational expenses,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1188,Healthcare Advantage Package,Stay on top of your healthcare needs with exclusive discounts and priority access.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1188,Smart Shopper Grocery Rewards,Earn rewards points on every grocery purchase for future savings.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1188,Platinum Savings Account,"High-interest savings account with no minimum balance, grow your money faster.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1194,High-Yield Education Investment Plan,"Invest in your future and your child's with our Education Investment Plan, offering high returns and tax benefits.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1194,Low Interest Home Loan Offer,Purchase or renovate your dream home with our competitive Home Loan offer featuring low interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1194,Cashback Rewards Credit Card,"Elevate your dining and shopping experiences with our Cashback Rewards Credit Card, offering cashback and reward points.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1201,Maximize Travel Rewards,"Apply for our Credit Card with Cashback and Reward Points. Earn points on every travel expense and redeem them for free flights, hotel stays, or gift cards.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1201,Affordable Education Financing,Unlock your potential with our Personal Loan featuring Low Interest Rates and Flexible EMI Options. Finance your studies easily and manageable.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1201,Shop & Save with Exclusive Offers,Take advantage of Seasonal Discounts and savings on top Fashion Brands. Enjoy the best deals with our Credit Card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1202,Maximize Rewards with Our Cashback Credit Card,"Earn cashback on all purchases, including electronics, travel, and groceries.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1202,Low Interest Rate Education Loan,Affordable education loans with flexible EMI options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1202,Apply for a Home Loan Today,Secure a home loan with competitive low interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1231,Travel Rewards Credit Card,Earn cashback and reward points on travel expenses,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1231,Healthcare Savings Account,High-interest account for your healthcare needs with no minimum balance,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1231,Grocery Cashback Credit Card,Save on groceries with cashback and reward points,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1241,Boost Your Grocery Spending with Our Cashback Credit Card,"Earn cashback on every grocery purchase and redeem them for travel, electronics, or other rewards.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1241,Travel More with Our Rewards Points Credit Card,Collect travel points on all purchases and enjoy exclusive travel benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1241,Secure Your Future with High Return Investment Plans,Invest in our plans offering high returns and tax benefits to secure your future.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1243,Maximize Your Purchases with Our Electronics Credit Card,Earn cashback and reward points on all electronics purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1243,Savvy Shopper's Dream: Grocery Credit Card,Receive special offers and rewards every time you shop for groceries.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1243,"Travel More, Spend Less with Our Travel Credit Card",Earn cashback and reward points on all travel-related expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1256,Low Interest Home Loan for Healthcare Professionals,Afford your dream home with our competitive home loan offer tailored for healthcare professionals.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1256,Rewards Credit Card for Tech Enthusiasts,Stay ahead in the tech world with our credit card offering cashback and reward points on electronics purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1256,Dining & Grocery Rewards Credit Card,Savor every meal and stock up for your kitchen with our credit card offering cashback and reward points on dining and grocery expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1265,Healthy Rewards Credit Card,Earn cashback on healthcare expenses and enjoy reward points that can be redeemed for wellness packages.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1265,Smart Shopper Grocery Card,Get cashback on grocery purchases and earn rewards points that can be used towards cooking classes or appliances.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1265,InvestED Credit Card,Combine your everyday spending with investment opportunities. Earn reward points that can be invested in high-return plans.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1272,Dine Out & Earn Rewards,Elevate your dining experience with our Credit Card that offers cashback and reward points. Enjoy every meal more.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1272,Boost Your Education Savings,Save for your education goals with our Savings Account offering high interest rates and no minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1272,Healthcare Coverage & Benefits,"Take care of yourself and your loved ones with our comprehensive Healthcare solutions, designed for peace of mind.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1298,Maximize Dining Experiences with Our Premium Rewards Credit Card,Earn cashback and reward points on every dining transaction. No annual fee.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1298,Boost Your Healthcare Savings with High-Interest Account,"Open a savings account with high interest rates, no minimum balance, and exclusive healthcare benefits.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1298,Secure Your Financial Future with Our Investment Plans,Invest in our plans with high returns and tax benefits for long-term wealth creation.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1307,Maximize Your Travel: Premium Travel Credit Card,Earn reward points on every travel expense and get cashback on electronics purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1307,Invest in a Healthier Future: High Return Investment Plans,Invest in healthcare sector with our plans offering high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1307,"Save Smart, Live Better: High Interest Savings Account",Enjoy high interest rates on your savings without worrying about minimum balances.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1311,Maximize Your Savings with Our High-Yield Savings Account,Earn high interest rates on your savings without maintaining a minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1311,Invest Smartly with Our Tax-Advantaged Plans,Invest in various schemes to enjoy high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1311,Secure Your Dream Home with Low Interest Rates,Apply for our home loan with competitive interest rates for your convenience.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1313,Maximize Your Shopping with Cashback Credit Card,"Earn cashback and reward points on every purchase. Perfect for electronics, travel, and fashion.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1313,Boost Your Savings with High Interest Rate Account,Open a savings account with high interest rates and no minimum balance. Ideal for education expenses or your future goals.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1313,Plan Your Dream Journey with Low Interest Home Loan,Lock in low interest rates on home loan. Start planning your dream travel today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1319,Maximize Dining Experience with Our Rewards Credit Card,Earn cashback and reward points on every dining expense.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1319,Boost Your Education Investment with High Returns and Tax Benefits,Invest in education with our investment plans designed to grow your money effectively.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1319,Secure Your Dream Home with Low Interest Rates,Explore our home loan options offering competitive rates for your property purchase.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1320,Exclusive Education Discounts & Rewards,"Enjoy special discounts and rewards on educational resources such as books, software, and more.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1320,Dine Out & Save with Your Card,Get attractive offers at popular dining spots across the city. Perfect for your next family outing!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1320,Grocery Essentials Made Affordable,Save on your monthly grocery shopping with our tailored offers and discounts.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1333,Discover the World with Our Low-Interest Travel Loan,Travel hassle-free with our flexible and affordable personal loan. Experience low-interest rates and easy EMI options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1333,Elevate Your Dining Experiences with Our Rewards Credit Card,Enjoy dining out more with our credit card offering reward points on every purchase. Savor the taste of exclusivity.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1333,Maximize Savings and Perks with Our Cashback Credit Card,Get more for your purchases with our cashback credit card. Earn rewards points on electronic items too!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1339,Low Interest Home Loan Offer,Secure your dream home at unbeatable rates,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1339,High Interest Savings Account,Maximize your savings with our no-minimum balance account,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1339,Exclusive Fashion Offers,Stay trendy with seasonal discounts on top fashion brands,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1349,Maximize Your Dining Experience with Our Rewards Program,Earn rewards points on every dining expense and redeem them for exciting benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1349,Secure Your Future with Low-Interest Personal Loans,"Get a personal loan with flexible EMI options and low interest rates, perfect for your needs.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1349,Invest in Health and Travel with Our Comprehensive Plans,Enjoy tax benefits and high returns on your investments in healthcare and travel sectors.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1356,Explore More with Our Travel Rewards Credit Card,Earn reward points on every travel spend and enjoy exclusive deals.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1356,Savor Dining Experiences with Our Cashback Credit Card,Get cashback on dining bills and experience the finest cuisines.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1356,Healthcare Made Affordable with Our Low-Interest Loan,Manage your healthcare expenses effectively with our low-interest home loan.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1417,Low Interest Home Loan for Electronics Enthusiasts,Get a home loan with low interest rates and upgrade your electronics today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1417,Maximize Your Investments in Healthcare Sector,Investment plans offering high returns and tax benefits in the booming healthcare industry.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1417,Fashion Forward with Exclusive Credit Card Offers,Experience exclusive fashion offers and earn reward points on your purchases with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1424,Maximize Your Savings with Our High-Interest Rate Savings Account,Earn high interest rates on your savings without maintaining a minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1424,"Travel More, Spend Less with Our Travel Credit Card",Earn reward points and cashback on all travel-related expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1424,Secure Your Dream Home with Our Low-Interest Rate Home Loan,Get a home loan at competitive low interest rates to make your dream home a reality.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1430,Maximize Your Dining Experiences with Our Rewards Credit Card,"Earn up to 5% cashback at restaurants, plus reward points on all dining purchases.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1430,Travel More with Low Interest Rate Home Loan Offers,Get approved for a home loan today and enjoy competitive interest rates on your next travel adventure.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1430,Fashion Forward with Exclusive Discounts and Rewards,"Stay trendy and save with our credit card, offering seasonal discounts and rewards at top fashion brands.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1436,High Yield Health Savings Account,Earn high interest rates with no minimum balance on your Health Savings Account.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1436,Investment Plans for Higher Returns,Maximize your savings with investment plans offering high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1436,Exclusive Education Discounts,Take advantage of exclusive offers on educational resources and services.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1449,Enhance Your Learning Journey with Our Educational Credit Card,"Earn cashback and reward points on all educational expenses, low interest rates on personal loans for study materials.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1449,Maximize Savings with Our High-Interest Savings Account,"Open a savings account that offers high-interest rates with no minimum balance, perfect for your future plans.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1449,Dine Out and Save More with Our Credit Card,"Get cashback and reward points on dining expenses, combined with flexible EMI options for personal loans.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1461,EduCashBack Credit Card,Earn cashback and reward points on education expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1461,Shop&Save Fashion Card,Exclusive offers on fashion brands and seasonal discounts.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1461,InvestSmart Plan,High returns and tax benefits in investment plans.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1464,Maximize Your Dining and Electronics Spending,Earn cashback and reward points on all your dining and electronics purchases with our specially designed credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1464,Affordable Home Ownership with Low Interest Rates,"Take advantage of our competitive home loan rates, making it easier for you to achieve your dream of owning a home.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1464,Boost Your Education Investment,Elevate your education spending with our credit card that offers cashback and reward points. Invest in your future today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1470,Credit Card with Dining and Travel Rewards,Earn cashback and reward points on dining and travel expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1470,Healthcare Investment Plan,High returns and tax benefits for your healthcare needs.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1470,Savings Account with High Interest Rates,"No minimum balance required, enjoy high interest rates on your savings.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1472,Low Interest Home Loan for Your Dream Home,Get a home loan with competitive interest rates and flexible repayment options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1472,Invest Smartly with High Returns and Tax Benefits,Invest in our diversified portfolio of mutual funds and take advantage of high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1472,Credit Card with Cashback and Reward Points,"Earn cashback on all your purchases and redeem reward points for exciting offers on dining, electronics, fashion brands and more.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1653,Explore the World with Our Competitive Travel Offers,"Travel more, pay less! Enjoy exclusive deals on flights, hotels and tours.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1653,Boost Your Grocery Shopping Experience with Rewards,Earn points on your grocery purchases and redeem them for discounts or gifts.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1653,"Invest Smart, Save More with Our High-Yield Savings Account",Earn high interest rates without maintaining minimum balance. Start saving today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1659,Low Interest Rate Home Loan Offer,Get a home loan with competitive interest rates and flexible repayment options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1659,Personal Loan with Flexible EMI Options,Avail personal loan with low interest rates and customizable EMIs to fit your budget.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1659,Exclusive Travel Discounts & Dining Offers,Enjoy exclusive travel deals and dining offers on our bank travel and dining cards.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1660,SmartShop Education Credit Card,"Earn reward points on education expenses and enjoy cashback on grocery, travel, and more.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1660,HealthyLife Rewards Credit Card,"Get reward points for healthcare spending and earn cashback on essential groceries, electronics, and travel.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1660,TravelEase Elite Credit Card,"Experience the luxury of travel with our elite credit card. Earn reward points on every purchase, including cashback on electronics and daily essentials.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1672,Maximize Your Travel Rewards with Our Credit Card,"Earn cashback and reward points for every travel-related expense, making your next adventure more affordable.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1672,Boost Your Education Journey with Competitive Home Loans,"Secure a low interest home loan to support your studies or that of your child's, providing financial peace of mind.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1672,Smart Shopping with Cashback and Reward Points on Groceries,Save on essentials like groceries by using our credit card that offers cashback and reward points.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1686,Low Interest Rate Home Loan,Get a competitive home loan with low interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1686,Credit Card with Cashback and Reward Points,Earn cashback and reward points on your purchases with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1686,High Interest Savings Account,Open a savings account with high interest rates and no minimum balance.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1693,Low Interest Personal Loan,Avail personal loan with low interest rates and flexible EMI options,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1693,High-Interest Savings Account,Open a savings account with high interest rates and no minimum balance,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1693,"Travel More, Spend Less with Home Loan",Apply for home loan with low interest rates,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1699,"Invest Smart, Earn More",Investment plans with high returns and tax benefits,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1699,"Save Smarter, Live Better",Savings account with high interest rates and no minimum balance,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1699,"Travel More, Spend Less",Credit card with cashback and reward points,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1719,High-Yield Travel Credit Card,Earn cashback and reward points on all travel-related expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1719,Smart Investment Plans,Invest for a secure financial future with high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1719,Flexible Personal Loan Offer,Get a personal loan with low interest rates and flexible EMI options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1722,Enhance Your Dining Experiences,Maximize rewards with our premium dining credit card offering cashback and exclusive reward points.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1722,Empower Your Electronic Purchases,Upgrade your shopping experience with our electronic credit card that offers cashback on all purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1722,"Travel Smarter, Save More",Book your next trip with confidence using our travel credit card featuring cashback and attractive reward points.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1725,Maximize Your Travel Experience with Our Exclusive Offers,Take advantage of our special travel deals and enjoy unforgettable journeys!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1725,Boost Your Education with Our Scholarship Programs,Further your knowledge with our education offers and scholarships!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1725,Capitalize on High Returns with Our Investment Plans,Invest wisely and secure high returns with our tailored investment plans!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1731,High Reward Credit Card for Electronics and Travel Purchases,"Earn cashback on electronics purchases, reward points on travel bookings.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1731,Maximize Your Savings with Our High-Interest Savings Account,"No minimum balance required, start saving today!","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1731,Affordable Personal Loan with Flexible EMI Options,Low interest rates and tailored repayment plans for your needs,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1742,Healthcare Cashback Credit Card,Earn reward points and cashback on all healthcare-related expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1742,Travel Rewards Credit Card,"Maximize your travel experiences with exclusive offers, rewards, and bonus points.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1742,"Invest Smart, Earn More",High returns and tax benefits on our diverse investment plans. Start today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1749,High-Yield Savings Account,Earn high interest rates on your savings with no minimum balance required.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1749,Fashion & Seasonal Discounts,Stay stylish and save! Enjoy exclusive offers from top fashion brands and seasonal discounts.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1749,Credit Card with Rewards,Maximize your spending with a credit card that offers cashback and reward points on every purchase.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1751,Travel More with Our Rewards Credit Card,Earn cashback and reward points on all travel expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1751,Invest in Your Health with Affordable Healthcare Plans,Get high returns and tax benefits on your healthcare investments.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1751,Smart Shopping with Low Interest Home Loan,"Purchase electronics, groceries, dining, or a new home at low interest rates.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1757,Earn While You Learn - Education Credit Card,Earn reward points and cashback on all education-related purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1757,"Travel More, Spend Less - Travel Credit Card",Get exclusive travel benefits and rewards while you explore the world.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1757,Homeowner's Dream - Low-Interest Home Loan Offer,Lock in a low interest rate for your dream home today!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1768,Low-Interest Personal Loan for Healthcare Expenses,Get a personal loan with low interest rates and flexible EMI options to cover your healthcare expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1768,Education Loan at Competitive Rates,Finance your education dreams with our competitive rate education loan.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1768,Travel Credit Card Offering Cashback and Reward Points,Experience the joy of travel with our credit card that offers cashback and reward points.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1785,High Interest Savings Account,"Earn more on your savings with our high interest rate savings account, no minimum balance required.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1785,Credit Card with Cashback & Reward Points,Get rewarded for your everyday spending with our credit card offering cashback and exclusive rewards points.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1785,Personal Loan with Flexible EMI Options,Secure a personal loan with low interest rates and enjoy the flexibility of customizable EMIs to suit your budget.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1790,Dine Out and Earn Rewards,Elevate your dining experience with our Credit Card that offers cashback and reward points at participating restaurants.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1790,"Healthy Living, Rewarding Savings",Stay on top of your health with our Healthcare Credit Card. Earn points for every healthcare expense you make.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1790,"Smart Electronics, Smart Shopping",Upgrade your tech game with our Electronics Credit Card that offers cashback and reward points on all your electronics purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1793,Maximize Your Electronics Purchases with Our Cashback Credit Card,Earn reward points and cashback on all your electronic purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1793,Affordable Education Loans at Low Interest Rates,Fund your education dreams with our competitive home loan offers.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1793,Travel Smarter with Our Cashback Credit Card,Earn reward points and cashback on your travel expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1794,Savor Dining Experiences with Our Exclusive Offers,Enjoy special discounts at your favorite restaurants and eateries. Apply now!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1794,Travel in Style with Our Exclusive Deals,"Get exclusive deals on travel packages, making your next adventure more affordable. Check it out today!","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1794,Elevate Your Fashion Game with Seasonal Discounts,Take advantage of seasonal discounts and exclusive offers from top fashion brands. Upgrade now!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1797,Low Interest Home Loan Offer,Avail our exclusive home loan offer with competitive interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1797,"Invest Smart, Earn More",Explore our investment plans with high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1797,Shop & Save with Us,Enjoy exclusive offers on fashion brands and seasonal discounts on your shopping spree.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1803,High-Yield Savings Account,Earn high interest rates on your savings with no minimum balance requirement.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1803,Travel Rewards Credit Card,"Enjoy cashback and reward points on all purchases, perfect for travel expenses.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1803,Exclusive Fashion Discounts,"Get seasonal discounts on your favorite fashion brands, only with us.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1824,Maximize Your Grocery Spends with Our Cashback Credit Card,Earn cashback and reward points on every grocery purchase you make.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1824,Boost Your Education Savings with Our Investment Plan,Invest in your future with high returns and tax benefits. Start saving for your child's education today.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1824,Smart Electronics Shopping with Our Cashback Credit Card,"Get cashback and reward points when you buy electronics, making every purchase count.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1828,High-Return Investment Plans with Tax Benefits,Invest in our high-return plans with tax benefits to secure your financial future.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1828,Low Interest Rate Home Loan Offers,Apply for our low interest rate home loan offers and own your dream house today.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1828,Personal Loan with Flexible EMI Options and Low Interest Rates,Get a personal loan with flexible EMI options and low interest rates to cater to your financial needs.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1832,Premium Dining Experience with Cashback Rewards,Enjoy exclusive dining offers and earn cashback rewards with our premium credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1832,Maximize Your Savings on Electronics,Save more on your electronics purchases with our cashback rewards credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1832,High Returns and Tax Benefits with Investment Plans,Invest in our plans for high returns and significant tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1841,Exclusive Healthcare Discounts,Enjoy special discounts on healthcare services and products.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1841,Invest in Your Wardrobe,Take advantage of our exclusive offers and seasonal discounts on fashion brands.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1841,Maximize Your Purchases,Apply for our credit card with cashback and reward points to get the most out of your spending.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1854,Explore the World with Exclusive Travel Offers,"Travel more, spend less! Get exclusive travel offers and discounts on flight bookings, hotels, and attractions.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1854,Savor Delicious Dining Experiences with Rewards,Enjoy a gastronomic adventure with our dining rewards program. Earn points for every meal and redeem them for exciting experiences.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1854,Invest Smartly in Our High-Return Plans with Tax Benefits,Maximize your investment returns and tax savings! Explore our portfolio of high-yield investment plans designed for smart investors.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1857,Low-Interest Home Loan for Dining Enthusiasts,Experience the comfort of your dream home while enjoying dining perks. Apply now!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1857,Invest in Education and Travel Abroad,"Get high returns on investment, tax benefits, and opportunities to explore the world.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1857,Credit Card Offering Cashback and Reward Points for Healthcare Services,"Stay healthy, get rewards. Use our credit card for healthcare expenses today!","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1860,Low Interest Personal Loan Offer,Avail a personal loan with low interest rates and flexible EMI options to meet your needs.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1860,Credit Card with Cashback and Reward Points,Get a credit card that offers cashback and reward points for your everyday expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1860,Investment Plans with High Returns and Tax Benefits,Start investing today with our plans designed to offer high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1861,Maximize Your Dining Experiences with Our Exclusive Rewards Credit Card,Earn cashback and reward points on every dining transaction.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1861,Plan Your Next Adventure with Our Travel Loan Offer,Travel with peace of mind with our competitive interest rates.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1861,Secure Your Dream Home with Our Low Interest Rate Home Loans,Invest in property with attractive returns and flexible repayment options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1878,Low Interest Rate Home Loan,Apply for our home loan and enjoy low interest rates. Start building your dream home today.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1878,Credit Card with Cashback and Reward Points,"Get a credit card that rewards you every time you spend. Earn cashback and reward points on dining, electronics, and more.","0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1878,Exclusive Healthcare Benefits,Stay healthy with our exclusive healthcare benefits. Get priority access to top healthcare providers and services.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1888,Healthcare Advantage Credit Card,Earn cashback on healthcare expenses and reward points for other purchases.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1888,Smart Grocery Rewards Mastercard,Save on your weekly groceries with cashback and additional benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1888,InvestWise Plan,High returns and tax benefits on your investment portfolio.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1893,Low Interest Rate Personal Loan,Get a personal loan with competitive interest rates and flexible EMI options.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1893,Credit Card Rewards,Earn cashback and reward points with our credit card offers.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1893,Exclusive Healthcare Offers,Take advantage of special healthcare deals and savings.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1894,Maximize Your Dining Experiences with Our Cashback Credit Card,Earn reward points and cashback on every dining transaction. Special offers on popular restaurants.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1894,Save More on Groceries with Our Rewards Credit Card,Get cashback and bonus reward points on your grocery purchases. Access exclusive deals at major supermarkets.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1894,"Travel More, Spend Less with Our Cashback Travel Credit Card",Earn generous cashback and reward points on travel-related expenses. Enjoy special discounts and privileges for your journeys.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1907,Low-interest Home Loan for Travel Enthusiasts,Get a home loan with attractive low-interest rates and enjoy your travels more often.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1907,Healthcare Credit Card with Reward Points,Earn reward points on healthcare expenses and get more for your medical needs.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1907,High-Return Investment Plans for Dining Delights,Invest in plans that offer high returns and let your dining experiences be on us!,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1916,Low-Interest Personal Loan for Healthcare Expenses,Get a personal loan with low interest rates and flexible EMI options to cover unexpected healthcare expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1916,Credit Card for Travel Rewards,Earn cashback and reward points on all travel-related purchases with our credit card.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1916,Invest in Your Future with High Returns,Start investing today with our plans offering high returns and tax benefits to secure your financial future.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1924,Maximize Your Dining Expenses with Our Rewards Credit Card,Earn cashback and reward points on all dining expenses.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1924,Boost Your Education Investment with Our High-Yield Plans,Invest in education with our plans offering high returns and tax benefits.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"
+1924,Travel More for Less with Our Low Interest Rate Home Loan,Take advantage of our low interest rates on home loans to fund your travel dreams.,"0      Withdrawal
+1         Payment
+2         Payment
+3         Deposit
+4         Deposit
+          ...    
+995       Deposit
+996       Deposit
+997    Withdrawal
+998      Transfer
+999       Deposit
+Name: transaction_type, Length: 1000, dtype: object","0      Credit Card
+1       Debit Card
+2              UPI
+3       Debit Card
+4              UPI
+          ...     
+995    Net Banking
+996    Credit Card
+997    Credit Card
+998     Debit Card
+999    Credit Card
+Name: payment_mode, Length: 1000, dtype: object"

@@ -6,23 +6,22 @@
       <table>
         <thead>
           <tr>
-            <th>Location</th>
+            <th>Purchased Platform</th>
             <th>Amount</th>
-            <th>Card Type</th>
+            <th>Payment Mode</th>
           </tr>
         </thead>
         <tbody>
           <tr *ngFor="let transaction of transactions">
-            <td>{{ transaction.location }}</td>
+            <td>{{ transaction.purchase_platform }}</td>
             <td>{{ transaction.amount | currency }}</td>
-            <td>{{ transaction.cardType }}</td>
+            <td>{{ transaction.payment_mode }}</td>
           </tr>
         </tbody>
       </table>
     </div>
   
     <div class="charts-container">
-        <!-- Header Section (Left Side) -->
         <div class="charts-header">
           <h2>Transaction Insights</h2>
           <button (click)="toggleChart()">
@@ -30,7 +29,6 @@
           </button>
         </div>
       
-        <!-- Chart Section (Right Side) -->
         <div class="chart-content">
           <canvas id="pieChart" *ngIf="showPieChart"></canvas>
           <canvas id="barChart" *ngIf="!showPieChart"></canvas>
